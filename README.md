@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zondiosei
+- 👋 Hi, I’m Zondi
 - 👀 I’m interested in anything computer science(I'm a begiiner please be gentle with me)
 - 🌱 I’m currently learning C and algorithms in java
 - 💞️ I’m looking to collaborate on anything java and C related
